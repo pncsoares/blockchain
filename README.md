@@ -1,17 +1,46 @@
-# Blockchain in Node.js
+# Blockchain
 
-A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).
+A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript.
 
-# Usage
+For learning purposes 📖 🎓
 
+# Setup
+
+## Clone repository
+
+Create and go to the directory where you want to place the repository
+
+```bash
+  cd my-directory
 ```
-git clone <this-repo>
+
+Clone the project
+
+```bash
+  git clone https://github.com/pncsoares/blockchain.git
 ```
 
+Go to the project directory
+
+```bash
+  cd blockchain
 ```
+
+## Install dependencies
+
+```bash
 npm install
+```
+
+## Run
+
+```bash
 npm start
 ```
+
+# License
+
+MIT
 
 # Credits 
 
